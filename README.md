@@ -22,6 +22,7 @@
 
 - [День 15. TCP и UDP: в чём разница?](week-3-transport-and-application-layers/day-15-tcp-and-udp.md)
 - [День 16. Порты и сетевые соединения](week-3-transport-and-application-layers/day-16-ports.md)
+- [День 17. DNS: как домены превращаются в IP-адреса](week-3-transport-and-application-layers/day-17-dns.md)
 
 ## Источник
 
